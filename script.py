@@ -6,7 +6,7 @@ from deep_translator import GoogleTranslator
 # Variables
 CheckIcon = str("✅")
 ErrorIcon = str("❌")
-API_Key = "PYhivyB6uA4ZPL32UbKl3mCdlpAGhv6IviXUVXoL"
+API_Key = ""
 Path = "./python/Nasa/APOD_Files/"
 Month_List = ["Janvier", "Février", "Mars", "Avril", "Mai", "Juin", "Juillet", "Août", "Septembre", "Octobre", "Nomvenbre", "Décembre"]
 Langue = "fr"
